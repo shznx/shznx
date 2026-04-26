@@ -1,3 +1,7 @@
-<h1>Hey whats up ✌️</h1>
+<p>
+Prazer, me chamo Thiago — Desenvolvedor Web Full Stack de São Paulo, Brasil. Transformo ideias em aplicações web modernas, rápidas e eficientes, atuando tanto no front-end quanto no back-end.
+</p>
 
-My name is Thiago and I'm a Full Stack Web Developer from Brazil, São Paulo. With solid experience in front-end and back-end technologies, I specialize in creating dynamic web applications. My interests span a wide range of technologies, from innovative frameworks to evolving emerging trends, and I am always eager to take on new challenges.
+<p>
+Movido por desafios, estou sempre explorando novas tecnologias e elevando o nível dos meus projetos.
+</p>
